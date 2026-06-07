@@ -1,49 +1,20 @@
-💫 About Me:
-🚀 Data Analyst at Lifescience Intellipedia | Ex - Times Internet | LinkedIn Top Data Analytics Voice
 
-With 2+ years of hands-on experience in data analytics, I specialize in transforming complex datasets into actionable insights that drive business growth and operational efficiency. My expertise lies in data cleaning, mining, visualization, and storytelling.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhupendrakumar7701/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-brightgreen?logo=google-chrome&logoColor=white)](https://bhupendra7701.netlify.app/)
 
-At Times of India, I focused on building interactive dashboards, analyzing customer behavior, and contributing to strategic decisions through impactful visualizations. My role at Times Internet sharpened my ability to handle large datasets and deliver insights under tight deadlines. Whether it’s ETL pipelines or predictive analytics, I aim to bring clarity and direction through data.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=bhupenderneshu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=bhupenderneshu&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=bhupenderneshu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-I’m passionate about continuous learning and stay updated with the latest trends in BI and analytics. My approach blends technical skills with business understanding—helping bridge the gap between raw data and strategy.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=bhupenderneshu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-Key Skills:
-
-1) Data Cleaning & Preparation
-
-2) Data Visualization (Tableau, Power BI)
-
-3) SQL (Advanced)
-
-4) Python for Data Analysis
-
-5) BigQuery & Excel
-
-6) ETL Processes
-
-7) Exploratory & Predictive Analytics
-
-8) Dashboard Development & KPI Reporting
-
-📧 Reach me at: bhupenderkumar1077@gmail.com
-
-Let’s connect if you’re looking to collaborate on data-driven solutions or need help turning your data into impactful decisions.
-
-🌐 Socials:
-Instagram LinkedIn email
-
-💻 Tech Stack:
-NumPy Pandas scikit-learn Scipy Canva
-
-📊 GitHub Stats:
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-
-
-
-
-🏆 GitHub Trophies
-
-
-🔝 Top Contributed Repo
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
